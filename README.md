@@ -1,5 +1,5 @@
 <h2>Olá eu sou a Mônica Rodrigues 👋 </h2>
-
+<img align="right" alt="Nika-Avatar" height="15%" width="15%" src="https://user-images.githubusercontent.com/79426510/132617836-aff40102-920b-4dc8-b79b-be1977bc40db.png">
 
 - 🔭 Trabalhei com programação Delphi, ASP e com SGBD Oracle por mais de 15 anos. Atualmente estou trabalhando como autônoma. 
 
@@ -24,7 +24,6 @@
   <img align="center" alt="Nika-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nika-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nika-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="right" alt="Nika-Avatar" height="10%" width="10%" src="https://user-images.githubusercontent.com/79426510/132617836-aff40102-920b-4dc8-b79b-be1977bc40db.png">
 </div>
      
 ##
