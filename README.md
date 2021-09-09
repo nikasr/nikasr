@@ -1,11 +1,14 @@
-Olá eu sou a Mônica Rodrigues 👋
+<h2>Olá eu sou a Mônica Rodrigues</h2> 👋
 
 
 - 🔭 Trabalhei com programação Delphi, ASP e com SGBD Oracle por mais de 15 anos. Atualmente estou trabalhando como autônoma. 
+
 - 🌱 Estou participando de alguns Bootcamps para me aprimorar como Full Stack Developer. 
      A princípio estou focando em Java, Spring, TypeScript, Angular, PostgreSql e MySQL.
      Estou lendo sobre Clean Code e Design Patterns para aplicar as boas práticas de programação.
-- 👯 Estou buscando oportunidade para trabalhar como voluntária em projetos Open Source para adquirir mais experiência nas novas tecnologias utilizadas no mercado de TI.
+     
+- 👯 Nesse momento estou buscando oportunidades para trabalhar como voluntária em projetos de desenvolvimento Web/Microserviçoes para adquirir mais experiência nas novas      tecnologias e boas práticas utilizadas no mercado de TI atualmente.
+
 - 📫 Meus contatos: +55 21 99799-3065 
      msrodrigues68@hotmail.com 
      https://www.linkedin.com/in/monica-rodrigues-1206/
