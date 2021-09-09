@@ -9,6 +9,8 @@
      
 - 👯 Nesse momento estou buscando oportunidades para trabalhar como voluntária em projetos de desenvolvimento Web/Microserviçoes para adquirir mais experiência nas novas      tecnologias e boas práticas utilizadas no mercado de TI atualmente.
 
+- 👯 Também estou disponível para contratação CLT ou PJ no formato presencial, Home Office ou Híbrido.
+
 - 📫 Meus contatos: +55 21 99799-3065 
      msrodrigues68@hotmail.com 
      https://www.linkedin.com/in/monica-rodrigues-1206/
