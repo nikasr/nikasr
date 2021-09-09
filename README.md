@@ -1,5 +1,5 @@
 <div>
-<img  alt="Nika-Avatar" height="15%" width="15%" src="https://user-images.githubusercontent.com/79426510/132617836-aff40102-920b-4dc8-b79b-be1977bc40db.png"> 
+<img align="right" alt="Nika-Avatar" height="15%" width="15%" src="https://user-images.githubusercontent.com/79426510/132617836-aff40102-920b-4dc8-b79b-be1977bc40db.png"> 
 </div>
 <h2>Olá eu sou a Mônica Rodrigues 👋 </h2>
 
