@@ -11,10 +11,6 @@
 
 - 👯 Também estou disponível para contratação CLT ou PJ no formato presencial, Home Office ou Híbrido.
 
-- 📫 Meus contatos: +55 21 99799-3065 
-     msrodrigues68@hotmail.com 
-     https://www.linkedin.com/in/monica-rodrigues-1206/
-
 <div>
   <a href="https://github.com/nikasr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikasr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -36,7 +32,7 @@
 <div> 
    
      
-  <a href="mailto:21997993065" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white " target="_blank"></a>
+  <a href="https://wa.me/5521997993065" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white " target="_blank"></a>
      
   <a href="https://www.instagram.com/nikarodrigues2007" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:msrodrigues68@hotmail.com"><img src="https://img.shields.io/badge/-Hotmail-%53333?style=for-the-badge&logo=hotmail&logoColor=white" target="_blank"></a>
