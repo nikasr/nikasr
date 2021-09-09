@@ -1,7 +1,7 @@
 Olá eu sou a Mônica Rodrigues 👋
 
 
-- 🔭 Trabalhei com programação Delphi, ASP e com SGBD Oracle por mais de 15 anos. Atualmente estou trabalhando como autônoma. 
+- 🔭 Trabalhei com programação Delphi, ASP e com SGBD Oracle por 15 anos e atualmente estou trabalhando como autônoma. 
 - 🌱 Estou participando de alguns Bootcamps para me aprimorar como Full Stack Developer. 
      A princípio estou focando em Java, Spring, TypeScript, Angular, PostgreSql e MySQL.
      Estou lendo sobre Clean Code e Design Patterns para aplicar as boas práticas de programação.
