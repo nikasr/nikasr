@@ -1,4 +1,4 @@
-<h2>Olá eu sou a Mônica Rodrigues</h2> 👋
+<h2>Olá eu sou a Mônica Rodrigues 👋 </h2>
 
 
 - 🔭 Trabalhei com programação Delphi, ASP e com SGBD Oracle por mais de 15 anos. Atualmente estou trabalhando como autônoma. 
